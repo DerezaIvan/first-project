@@ -4,7 +4,7 @@
 
 /*Стили блока Header*/
 @import url(../blocks/header/header.css);
-@import url(../blocks/logo/_place/_header/logo_place_header.css);
+@import url(../blocks/logo/logo/_place/_header/logo_place_header.css);
 @import url(../blocks/header/_title/header_title.css);
 @import url(../blocks/header/_subtitle/header_subtitle.css);
 @import url(../blocks/header/__link/header__link.css);
@@ -82,7 +82,7 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__column/_content/_copyright/footer__column_content_copyright.css);
-@import url(../blocks/logo/_place/_footer/logo_place_footer.css);
+@import url(../blocks/logo/logo/_place/_footer/logo_place_footer.css);
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__column/_content/_info/footer__column_content_info.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
